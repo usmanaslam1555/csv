@@ -1,0 +1,8 @@
+id,parentId,sharePercent,name,type,isUBO,isSC
+1,,50,Bob Corp,2,false,false
+2,,50,Alice,1,false,false
+3,1,25,John,2,false,false
+4,1,25,Kenny,2,false,false
+5,1,25,Mike,2,false,false
+6,1,25,Jack Corp,1,false,false
+7,6,100,5,5,false,false
